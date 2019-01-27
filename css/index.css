@@ -8,9 +8,30 @@
     background-color:#000000;
 }
 
-#responsive-image {  
-    width: 100%;  height: auto; 
-} 
+header{
+	
+	margin: 1px 1px 1px 1px;
+	padding: 20px 1px 1px 1px;
+}
+
+nav {
+	overflow: hidden;
+	float: right;
+}
+ 
+.rounded {
+    border-radius: 50%;
+}
+ 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+.sign figcaption {
+    text-align: center
+   }
 
 h1,h2,h3,p {
     text-align:center;
